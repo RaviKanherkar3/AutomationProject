@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="23050" started-at="2020-10-19T08:48:58Z" finished-at="2020-10-19T08:49:21Z">
+    <groups>
+    </groups>
+    <test name="Testng.xml" duration-ms="23050" started-at="2020-10-19T08:48:58Z" finished-at="2020-10-19T08:49:21Z">
+      <class name="TestCases.TC_Login_001">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:TestCases.TC_Login_001@6a41eaa2]" name="setup" is-config="true" duration-ms="17251" started-at="2020-10-19T08:48:58Z" finished-at="2020-10-19T08:49:15Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="logintest()[pri:0, instance:TestCases.TC_Login_001@6a41eaa2]" name="logintest" duration-ms="5064" started-at="2020-10-19T08:49:15Z" finished-at="2020-10-19T08:49:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logintest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:TestCases.TC_Login_001@6a41eaa2]" name="teardown" is-config="true" duration-ms="705" started-at="2020-10-19T08:49:20Z" finished-at="2020-10-19T08:49:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- TestCases.TC_Login_001 -->
+    </test> <!-- Testng.xml -->
+  </suite> <!-- Suite -->
+</testng-results>

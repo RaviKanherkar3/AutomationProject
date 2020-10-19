@@ -1,0 +1,2 @@
+cd E:\RaviAutomation\AutomationProject
+mvn clean install
